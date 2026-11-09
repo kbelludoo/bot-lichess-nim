@@ -1,0 +1,11 @@
+# Binaries
+bot-lichess-linux-nim
+*.exe
+*.o
+*.a
+nimcache/
+
+# Config secrets
+bot-config.json
+accounts.json
+*.mbvmdb
